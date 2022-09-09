@@ -23,5 +23,6 @@ public class Greeter {
     Greeter greeter = new Greeter(language, country, name);
     System.out.println(greeter.sayHello());
     System.out.println("xwy was here");
+    System.out.println("hello xiaoGE --greeter from xwy");
   }
 }
